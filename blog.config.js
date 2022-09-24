@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Zou’s Blog',
   author: 'Zou',
   email: 'RickyZou2@gmail.com',
-  link: 'https://zyq.vercel.app',
+  link: 'https://rickyzou.xyz',
   description: '我的碎碎念.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
